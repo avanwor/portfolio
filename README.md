@@ -2,7 +2,7 @@
 
 <!-- insert success message -->
 
-The first iteration of my personal site built with [React](https://www.reactjs.org/) and hosted with [github](https://www.github.com/).
+The first iteration of my personal site built with [React](https://www.reactjs.org/) and hosted with [Github](https://www.github.com/).
 
 ## 🚀 Quick Start
 

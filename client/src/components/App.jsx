@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './Navbar.jsx'
+import Navhead from './Navhead.jsx';
 import Intro from './Intro.jsx'
 import About from './About.jsx';
 import Skills from './Skills.jsx';
@@ -17,7 +17,7 @@ class App extends React.Component {
   render() {
     return (
       <div >
-        <Navbar />
+        <Navhead />
         <Intro />
         <About />
         <Skills />

@@ -1,7 +1,7 @@
 import React from 'react';
 
 let Skills = () => {
-    return 
+    return <div>I like turtles</div>
 }
 
 export default Skills;

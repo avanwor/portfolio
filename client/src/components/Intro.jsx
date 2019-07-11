@@ -1,7 +1,7 @@
 import React from 'react';
 
-let Intro = () => {
-    return 
+const Intro = () => {
+    return (<div>It's me, Raaaandy</div>)
 }
 
 export default Intro
